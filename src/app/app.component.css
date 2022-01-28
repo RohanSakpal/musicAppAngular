@@ -1,0 +1,5 @@
+.box{
+    background-color: #151515;
+    width: 100%;
+    min-height: calc(100vh - 56px);
+}

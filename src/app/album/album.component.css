@@ -1,0 +1,20 @@
+.album-header {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: solid 1px #333;
+    color: white;
+}
+.album-thumb{
+    margin: 10px;
+    height: 400px;
+    width: 300px;
+}
+h1,h3,h5,a{
+    margin-top: 10px;
+}
+.album-track{
+    color: white;
+}
+.well{
+    margin-top: 10px;
+}
